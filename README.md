@@ -1,0 +1,1 @@
+This codebase implements a semi-implicit Euler-Maruyama method to solve a system of six particles connected by capillary forces and driven by Ornstein-Uhlenbeck noise. Once the particle trajectories have been found, we calculate statistical observables, namely the mean-squared displacement and velocity correlation function of the particles.
